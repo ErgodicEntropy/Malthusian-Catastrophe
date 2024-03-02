@@ -8,4 +8,6 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Needs-Means Birecursion Dynamics
 
+## Jared Diamond's Collapse
+
 
