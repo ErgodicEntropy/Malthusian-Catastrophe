@@ -1,6 +1,8 @@
 # Malthusian-Catastrophe
 Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Catastrophe + Discussion on the consequences of technology and industrial revolution
-## History
+## History: From Neolithic Demographic Transition to Columbian Exchange to Industrial Revolution
+
+## Zero Population movements: Between the Far-left and the Far-right
 
 ## Big Five Mass Extinctions
 
