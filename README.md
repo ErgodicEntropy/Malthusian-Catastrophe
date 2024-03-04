@@ -18,4 +18,8 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Logistic
 - Lotka-Voltera
 
-
+## Related Ideas:
+- Iron law of Wages
+- Falling rate of profit
+- New Poor Law
+- Cornucopianism, Ultimate Resource and Post-Scarcity
