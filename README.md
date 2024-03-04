@@ -12,4 +12,10 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Jared Diamond's Collapse
 
+## Model Roadmap:
+
+- Linear
+- Logistic
+- Lotka-Voltera
+
 
