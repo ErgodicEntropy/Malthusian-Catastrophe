@@ -20,8 +20,8 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Model Roadmap:
 
-- Linear
-- Logistic
+- Linear (T.Malthus,1798)
+- Logistic (P.Verhulst, 1838) -> Prey-Predator Dynamics
 - Lotka-Voltera
 
 ## Related Ideas:
