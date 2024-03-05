@@ -11,7 +11,9 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## History: From Neolithic Demographic Transition to Columbian Exchange to Industrial Revolution
 
-## Zero Population movements: Between the Far-left and the Far-right
+## Demography in different nations
+
+## Zero Population movements: Between the Far-left and the Far-right: Great Replacement and Replacement level
 
 ## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
 - Poverty Reduction and Birth Rate
