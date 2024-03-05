@@ -6,6 +6,9 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 — Thomas Malthus, 1798. An Essay on the Principle of Population. Chapter I.
 
+## What is Neo-Malthusianism ?
+
+
 ## History: From Neolithic Demographic Transition to Columbian Exchange to Industrial Revolution
 
 ## Zero Population movements: Between the Far-left and the Far-right
@@ -29,6 +32,8 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 ## Related Ideas:
 - Iron law of Wages
 - Falling rate of profit
+- Marxism
+- Georgism (Single Tax movement)
 - New Poor Law
 - Cornucopianism, Ultimate Resource and Post-Scarcity
 - Rat Utopia, Behavioral Sink and Spiritual Death
