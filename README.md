@@ -14,7 +14,9 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Resource Curse, Neolithic Package and Industrial Revolution
 
-## Needs-Means Birecursion Dynamics
+## Needs-Means Birecursion Dynamics and Human-Tool Dynamics (Power and Energy Dynamics)
+
+## Operative theories of History
 
 ## Jared Diamond's Collapse
 
