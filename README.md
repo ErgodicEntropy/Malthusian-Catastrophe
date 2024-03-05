@@ -35,6 +35,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Logistic (P.Verhulst, 1838) -> Prey-Predator Dynamics
 - Lotka-Voltera
 - Fisher-Kolmogorov equation (Population Dynamics and Mathematical Biology)
+- Reaction-Diffusion equation (Population Dynamics and Mathematical Biology)
 
 ## Related Ideas:
 - Iron law of Wages
