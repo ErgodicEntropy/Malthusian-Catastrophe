@@ -13,7 +13,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Zero Population movements: Between the Far-left and the Far-right
 
-## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin and Nicholas Eberstadt
+## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Neo-Malthusianism, Cornucopianism, Techno-Optimism)
 
 ## Big Five Mass Extinctions
 
@@ -37,5 +37,5 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Marxism
 - Georgism (Single Tax movement)
 - New Poor Law
-- Cornucopianism, Ultimate Resource and Post-Scarcity
+- Cornucopianism, Ultimate Resource and Post-Scarcity (Diamond Age by Neal Stephenson, Engines of Creation by Eric Drexler, Age of Spiritual Machines by Ray Kurzweil)
 - Rat Utopia, Behavioral Sink and Spiritual Death
