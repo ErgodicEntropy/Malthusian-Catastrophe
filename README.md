@@ -29,3 +29,4 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Falling rate of profit
 - New Poor Law
 - Cornucopianism, Ultimate Resource and Post-Scarcity
+- Rat Utopia, Behavioral Sink and Spiritual Death
