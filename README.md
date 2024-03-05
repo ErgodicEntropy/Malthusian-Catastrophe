@@ -1,4 +1,4 @@
-# Malthusian-Catastrophe
+# Malthusian-Catastrophe: Demography, Population Dynamics (Mathematical Biology) and Complex-Dynamical Systems
 Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Catastrophe + Discussion on the consequences of technology and industrial revolution
 
 ## What is Malthusianism ?
