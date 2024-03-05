@@ -13,7 +13,11 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Zero Population movements: Between the Far-left and the Far-right
 
-## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Neo-Malthusianism, Cornucopianism, Techno-Optimism)
+## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
+- Poverty Reduction and Birth Rate
+- Urbanization and Birth Rate
+- Women Education and Birth Rate
+- Underpopulation
 
 ## Big Five Mass Extinctions
 
@@ -30,6 +34,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Linear (T.Malthus,1798)
 - Logistic (P.Verhulst, 1838) -> Prey-Predator Dynamics
 - Lotka-Voltera
+- Fisher-Kolmogorov equation (Population Dynamics and Mathematical Biology)
 
 ## Related Ideas:
 - Iron law of Wages
