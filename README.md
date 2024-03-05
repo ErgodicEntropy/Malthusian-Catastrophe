@@ -37,5 +37,5 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Marxism
 - Georgism (Single Tax movement)
 - New Poor Law
-- Cornucopianism, Ultimate Resource and Post-Scarcity (Diamond Age by Neal Stephenson, Engines of Creation by Eric Drexler, Age of Spiritual Machines by Ray Kurzweil)
+- Cornucopianism, Ultimate Resource and Post-Scarcity (Diamond Age by Neal Stephenson, Engines of Creation by Eric Drexler, Age of Spiritual Machines by Ray Kurzweil + The Machines Stops by E.M.Forster, The Human Use of Human Beings by Norbert Wiener)
 - Rat Utopia, Behavioral Sink and Spiritual Death
