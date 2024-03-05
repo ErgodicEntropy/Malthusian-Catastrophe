@@ -13,6 +13,8 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Zero Population movements: Between the Far-left and the Far-right
 
+## Ted K, Paul Ehlrich, Charles Jones and Garrett Hardin
+
 ## Big Five Mass Extinctions
 
 ## Resource Curse, Neolithic Package and Industrial Revolution
