@@ -38,9 +38,10 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Model Roadmap:
 
-- Linear (T.Malthus,1798)
-- Logistic (P.Verhulst, 1838) -> Prey-Predator Dynamics
+- Linear (T.Malthus,1798): Malthusian Growth model
+- Logistic (P.Verhulst, 1838): Verhulst model
 - Lotka-Voltera
+- Prey-Predator Dynamics
 - Fisher-Kolmogorov equation (Population Dynamics and Mathematical Biology)
 - Reaction-Diffusion equation (Population Dynamics and Mathematical Biology)
 
