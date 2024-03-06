@@ -18,7 +18,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Zero Population movements: Between the Far-left and the Far-right: Great Replacement and Replacement level, Family Planning and Education
 - Eco-Fascism: Christchurch, El paso and Buffalo
-- Sterlization: India, Singapore...etc
+- Sterlization (Emergency program 1970s): India, Singapore...etc
 
 ## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
 - Poverty Reduction and Birth Rate
@@ -26,7 +26,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Women Education and Birth Rate
 - Underpopulation and Global Economy Collapse (Consumption-based and Growth-based Capitalist Economy)
 
-## Big Five Mass Extinctions
+## Big Five Mass Extinctions, Enviromental Degradation and Climate Change
 
 ## Resource Curse, Neolithic Package and Industrial Revolution
 
