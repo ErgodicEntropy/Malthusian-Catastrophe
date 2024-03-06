@@ -18,6 +18,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Zero Population movements: Between the Far-left and the Far-right: Great Replacement and Replacement level, Family Planning and Education
 - Eco-Fascism: Christchurch, El paso and Buffalo
+- Sterlization: India, Singapore...etc
 
 ## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
 - Poverty Reduction and Birth Rate
