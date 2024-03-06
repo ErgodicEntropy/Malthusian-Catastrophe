@@ -25,6 +25,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Urbanization-Industrialization-Secularization-Technologization and Birth Rate
 - Women Education and Birth Rate
 - Underpopulation and Global Economy Collapse (Consumption-based and Growth-based Capitalist Economy)
+- Child Mortality and Fertility rate (not to be confused with Growth rate = Birth rate - Death rate)
 
 ## Big Five Mass Extinctions, Enviromental Degradation and Climate Change
 
