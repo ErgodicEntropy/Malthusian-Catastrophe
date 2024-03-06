@@ -44,6 +44,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Prey-Predator Dynamics
 - Fisher-Kolmogorov equation (Population Dynamics and Mathematical Biology)
 - Reaction-Diffusion equation (Population Dynamics and Mathematical Biology)
+- Fibonacci Tree and Binary Recursion Trees
 
 ## Related Ideas:
 - Iron law of Wages
