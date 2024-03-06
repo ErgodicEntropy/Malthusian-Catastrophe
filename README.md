@@ -22,7 +22,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
 - Poverty Reduction and Birth Rate
-- Urbanization and Birth Rate
+- Urbanization-Industrialization-Secularization-Technologization and Birth Rate
 - Women Education and Birth Rate
 - Underpopulation and Global Economy Collapse (Consumption-based and Growth-based Capitalist Economy)
 
