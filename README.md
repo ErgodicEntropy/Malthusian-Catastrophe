@@ -49,6 +49,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - World3 Model (Meadows report)
 
 ## Related Ideas:
+- Carter Catastrophe (Doomsday Argument)
 - Iron law of Wages
 - Falling rate of profit
 - Marxism
