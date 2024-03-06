@@ -49,6 +49,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - World3 Model (Meadows report)
 - Feigenbaum constant
 - Mandelbrot set
+- Period Doubling Bifurcation
 
 ## Related Ideas:
 - Carter Catastrophe (Doomsday Argument)
