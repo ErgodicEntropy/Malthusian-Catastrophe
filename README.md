@@ -8,6 +8,9 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 ## What is Neo-Malthusianism ?
 
+## Human Population Planning and Control
+
+## American Society for Eugenics, Race Science
 
 ## History: From Neolithic Demographic Transition to Columbian Exchange to Industrial Revolution
 
