@@ -58,5 +58,9 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Post-Growth, Ecosocialism, Degrowth, Green Growth
 - Ecocentrism (Bio-Egalitarianism), Anthropocentrism, Technocentrism, Industrocentrism, Biocentrism
 
+## Ref: 
+- https://www.youtube.com/watch?v=AqHX2dVn0c8
+- https://www.youtube.com/watch?v=QsBT5EQt348
+
 
 ## System Dynamics and Systemic Analysis
