@@ -41,8 +41,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 
 - Linear (T.Malthus,1798): Malthusian Growth model and Malthusian Equilibrium
 - Logistic (P.Verhulst, 1838): Verhulst model
-- Lotka-Voltera
-- Prey-Predator Dynamics
+- Lotka-Voltera (Prey-Predator Dynamics)
 - Fisher-Kolmogorov equation (Population Dynamics and Mathematical Biology)
 - Reaction-Diffusion equation (Population Dynamics and Mathematical Biology)
 - Fibonacci Tree and Binary Recursion Trees
