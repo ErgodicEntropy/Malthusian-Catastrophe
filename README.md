@@ -47,6 +47,8 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Reaction-Diffusion equation (Population Dynamics and Mathematical Biology)
 - Fibonacci Tree and Binary Recursion Trees
 - World3 Model (Meadows report)
+- Feigenbaum constant
+- Mandelbrot set
 
 ## Related Ideas:
 - Carter Catastrophe (Doomsday Argument)
