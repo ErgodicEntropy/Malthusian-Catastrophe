@@ -61,6 +61,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Rat Utopia, Behavioral Sink and Spiritual Death (Spiritual Malthusianism)
 - Post-Growth, Ecosocialism, Degrowth, Green Growth
 - Ecocentrism (Bio-Egalitarianism), Anthropocentrism, Technocentrism, Industrocentrism, Biocentrism
+- Biopolitics, Necropolitics and Psychopolitics
 
 ## Ref: 
 - https://www.youtube.com/watch?v=AqHX2dVn0c8
