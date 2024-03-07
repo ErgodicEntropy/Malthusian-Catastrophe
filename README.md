@@ -29,6 +29,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Medecine, Food Supply, Hygiene and Birth Rate
 - Overconsumption and Birth Rate
 - Food Waste and Loss
+- Food and Water Scarcity
 
 ## Big Five Mass Extinctions, Enviromental Degradation and Climate Change
 
