@@ -26,7 +26,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Women Education and Birth Rate
 - Underpopulation and Global Economy Collapse (Consumption-based and Growth-based Capitalist Economy)
 - Child Mortality and Fertility rate (not to be confused with Growth rate = Birth rate - Death rate)
-- Medecine and Birth Rate
+- Medecine, Food Supply, Hygiene and Birth Rate
 - Overconsumption and Birth Rate
 - Food Waste and Loss
 
