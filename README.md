@@ -17,7 +17,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 ## Demography in different nations
 
 ## Zero Population movements: Between the Far-left and the Far-right: Great Replacement and Replacement level, Family Planning and Education
-- Eco-Fascism: Christchurch, El paso and Buffalo
+- Eco-Fascism and Green Nationalism: Christchurch, El paso and Buffalo Manifestos, White Skin, Black Fuel (Andreas Malm and the Zetkin Collective)
 - Sterlization (Emergency program 1970s): India, Singapore...etc
 
 ## Ted K, Paul Ehlrich, Charles Jones, Garrett Hardin, Nicholas Eberstadt and Meadows Reports (Degrowth, Post-Growth, EcoSocialism, Neo-Malthusianism, Cornucopianism, Techno-Optimism)
