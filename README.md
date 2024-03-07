@@ -62,7 +62,7 @@ Simulation of Malthusian Growth Model,  Malthusian Equilibrium and Malthusian Ca
 - Post-Growth, Ecosocialism, Degrowth, Green Growth
 - Ecocentrism (Bio-Egalitarianism), Anthropocentrism, Technocentrism, Industrocentrism, Biocentrism
 - Biopolitics, Necropolitics and Psychopolitics
-- Overpopulation, Competition, Spiritual Emptiness: The case in China
+- Overpopulation, Competition, Spiritual Emptiness: The case in China -> Consequences on Idleness (Bertrand Russell, Hermann Hesse) 
 
 ## Ref: 
 - https://www.youtube.com/watch?v=AqHX2dVn0c8
